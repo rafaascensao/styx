@@ -2,4 +2,4 @@
     analytics = false
     remote = s3remote
 ['remote "s3remote"']
-    url = s3://styx
+    url = s3://styxbucket
